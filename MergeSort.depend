@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542730267 source:/home/mostafayousry/MergeSort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
